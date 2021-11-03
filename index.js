@@ -1,3 +1,1 @@
-const { v4: uuidv4 } = require('uuid');
-
-console.log('Hello World: ' + uuidv4())
+console.log('Hello World this is Campbell\'s Node.js package!')
